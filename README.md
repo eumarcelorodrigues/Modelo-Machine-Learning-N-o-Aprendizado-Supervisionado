@@ -1,6 +1,4 @@
-# Modelo-Machine-Learning-N-o-Aprendizado-SupervisionadoMarcelo, com base no código enviado, trata-se de um projeto de **Machine Learning Não Supervisionado** utilizando o algoritmo **K-Means Clustering** para identificação de grupos (clusters) em dados sem rótulos. O projeto utiliza conceitos fundamentais apresentados no livro *Data Science para Negócios* de Foster Provost e Tom Fawcett, especialmente sobre descoberta de padrões, segmentação e aprendizado não supervisionado. 
 
-Você pode utilizar o seguinte conteúdo no arquivo **README.md** do GitHub:
 
 ---
 
